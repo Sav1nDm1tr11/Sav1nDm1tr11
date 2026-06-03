@@ -81,18 +81,6 @@ Prompt engineering • AI-assisted research and coding • agent-based workflows
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sav1nDm1tr11&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sav1nDm1tr11&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 ## Contact
 
 GitHub: [Sav1nDm1tr11](https://github.com/Sav1nDm1tr11)  
