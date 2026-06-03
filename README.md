@@ -23,9 +23,9 @@ My current focus is **product analytics**: statistics, Python, machine learning,
 I like working at the intersection of:
 
 - **data analysis and statistics**: hypothesis testing, regression analysis, model diagnostics, interpretation;
-- **machine learning**: classification, feature engineering, model tuning, validation, explainable results;
+- **machine learning**: Classic ML, feature engineering, model tuning, validation, explainable results;
 - **product and business thinking**: unit economics, P&L, NPV, ARPU/CAC/LTV, dashboards, case-solving;
-- **AI-native productivity**: prompt engineering, LLM-assisted research/coding, agent-based workflows, skills, plugins, and extensions.
+- **AI-native productivity**: prompt engineering, LLM-assisted research/coding, agent-based workflows, skills, plugins and extensions.
 
 ---
 
@@ -72,16 +72,6 @@ Prompt engineering • AI-assisted research and coding • agent-based workflows
 
 ---
 
-## Currently learning
-
-- Product analytics: metrics, funnels, retention, experimentation, A/B testing.
-- Practical SQL for analytics.
-- Better model validation and explainability.
-- Building AI-assisted workflows for research, analysis, and documentation.
-
----
-
 ## Contact
 
-GitHub: [Sav1nDm1tr11](https://github.com/Sav1nDm1tr11)  
 Telegram: @Sav1nDm1tr11
