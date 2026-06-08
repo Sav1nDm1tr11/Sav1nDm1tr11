@@ -24,7 +24,7 @@ I like working at the intersection of:
 
 - **data analysis and statistics**: hypothesis testing, regression analysis, model diagnostics, interpretation;
 - **machine learning**: Classic ML, feature engineering, model tuning, validation, explainable results;
-- **product and business thinking**: unit economics, P&L, NPV, ARPU/CAC/LTV, dashboards, case-solving;
+- **product and business thinking**: product efficiency metrics, dashboards, case-solving;
 - **AI-native productivity**: prompt engineering, LLM-assisted research/coding, agent-based workflows, skills, plugins and extensions.
 
 ---
