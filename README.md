@@ -17,8 +17,8 @@
 
 ## About me
 
-I'm a second-year student at HSE University Saint Petersburg, studying **Analytics in Economics**.  
-My current focus is **product analytics**: statistics, Python, machine learning, dashboards, business metrics, and turning data into clear decisions.
+I'm a third-year student at HSE University Saint Petersburg, studying **Analytics in Economics**.  
+My current focus is **data science**
 
 I like working at the intersection of:
 
@@ -31,6 +31,7 @@ I like working at the intersection of:
 
 ## Competitions and hackathons
 
+- Winner of **Маяки 2026**
 - Finalist of **Cup IT 2026**, audience choice award.
 - Semifinalist of **Cup Russia 2026**.
 - Finalist of **Alfa Case Camp 2025** in Sochi.
