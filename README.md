@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dmitry Savin</h1>
 
 <p align="center">
-  Product / Data Analytics • Statistics • Machine Learning • AI-native workflows
+  Data Analytics \ Data Science • Statistics • Machine Learning • AI-native workflows
 </p>
 
 <p align="center">
